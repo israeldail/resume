@@ -157,7 +157,10 @@ def main(resume_file, generate, directory):
     # read resume data and config with some defaults
     resume_data = read_yaml(resume_file)
     config = resume_data.get('config', {})
-    config.setdefault('output_dir', directory)
+    if directory:
+        config['output_dir'] = directory
+    else:
+        config.setdefault('output_dir', directory)
 
     # build based on the given format
     commands = {'html': generate_html, 'pdf': generate_pdf}
