@@ -26,10 +26,11 @@ To just create PDF file:
 
 ### Publishing
 
-To publish html on your server via SSH, edit `RSYNC_LOCATION` in `config.make` and run:
+To publish html on your server via SSH, type 
 
-    make publish
+    make html
 
+Just make sure you set your BUILD_DIR in the `Makefile`
 
 License
 -------

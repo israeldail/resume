@@ -266,7 +266,11 @@
             <a href="#">Top</a>
           </p>
           <p>
+          {% if config.github_source %}
+            Source on <a href="{{ config.github_source }}">github</a>
+          {% elif config.github_source %}
             Source on <a href="{{ config.bitbucket_source }}">bitbucket</a>
+          {% endif %}
           </p>
         </div>
 
