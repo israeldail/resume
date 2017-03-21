@@ -6,16 +6,16 @@ Python resume generator. From YAML to PDF and static HTML.
 Installing
 ----------
 
-    https://bitbucket.org/kciarnie/resume
+    git clone https://github.com/kciarnie/resume
     cd resume
-    python setup.py develop
+    make html
 
 Usage
 -----
 
 1. Look at resume examples in the `resumes` folder and create your own.
-2. Edit `config.make` and update it with your settings.
-3. Run `make` to build HTML and PDF files that will go to the `build` directory.
+2. Edit `Makefile` and update it with your settings. Specifically `resumes/kevin.yaml` to your yaml file
+3. Run `make html` to build HTML and PDF files that will go to the `build` directory.
 
 
 ### PDF
