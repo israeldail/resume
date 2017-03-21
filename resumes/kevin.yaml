@@ -164,6 +164,6 @@ hobbies:
 
 config:
     name: Kevin Ciarniello
-    bitbucket_source: https://bitbucket.org/kciarnie/resume
-    year: 2016
-    output_dir: build
+    github_source: https://github.com/kciarnie/resume
+    year: 2017
+    output_dir: sample
