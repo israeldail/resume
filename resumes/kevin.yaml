@@ -1,0 +1,169 @@
+
+# Example resume
+
+profile:
+    name: Kevin Ciarniello
+    label: Senior Software Developer
+    email: kciarnie@gmail.com
+    phone: +1 (604) 618 7487
+    birth: 09-13-1984
+    address: 25-240 Tenth Street<br>New Westminster, BC<br>Canada V3M 3X9
+    summary: >
+      If you can automate it, it should be done.
+
+    image: "../resumes/kevin.jpg"
+
+    networks:
+        -   provider: bitbucket
+            username: kciarnie
+            url: https://www.bitbucket.org/kciarnie
+
+        -   provider: linkedin
+            username: Kevin-Ciarniello-77b02baa
+            url: https://www.linkedin.com/in/kevin-ciarniello-77b02baa
+
+        -   provider: youtube
+            username: kciarnie
+            url: https://www.youtube.com/kciarnie
+
+        -   provider: instagram
+            username: kciarnie
+            url: https://instagram.com/kciarnie
+
+skills:
+    -   area: Programming
+        skills:
+            - Python, +1 years
+            - C#, +5 years
+            - Objective-C, 5+ years
+            - Java, Strong, 10+ years
+
+    -   area: Technology
+        skills:
+            - Git
+            - MSSQL
+            - Android
+            - iOS
+            - .NET C#
+            - Jenkins
+            - Docker
+            - JSON
+
+    -   area: Languages
+        skills:
+            - English, Fluent
+            - Portugese, Basic
+
+work:
+    -   company: Eventbase Technology
+        website: www.eventbase.com
+        role: Senior Software Developer
+        location: Vancouver, BC, Canada
+        date: September 2016 - Present
+        summary: Helped assist in Android and iOS Development, while I enjoyed automating things using Python to service over 100+ Event Apps
+        highlights:
+            - iOS and Android development on the core product that facilitates more than 100+ apps/year
+            - Made tools that could be used to help speed-up QA processes
+            - Created a private Python Module for aiding in developer/tester and automation
+            - Setup a Continuous Integration Environment to deploy builds and get configuration running faster
+
+    -   company: Vonigo
+        website: www.vonigo.com
+        role: Senior Mobile and Full-stack Developer
+        location: Vancouver, BC, Canada
+        date: November 2015 - August 2016
+        summary: When they needed help, I switched to being a .NET Developer. I started to understand the whole paradigm
+        highlights:
+            - Switched to a MSSQL/.NET developer working on back-end features for the company
+            - Developed the Vonigo API (api.vonigo.com)
+            - Developed a test harness for automated API testing
+            - Setup the Continuous Integration and Deployment Environment
+            - Optimizations of current systems, store procedures and the web application which service more than 1000 work orders a day
+
+
+    -   company: Vonigo
+        website: www.vonigo.com
+        role: Senior Android Developer
+        location: Vancouver, BC, Canada
+        date: March 2014 - November 2015
+        summary: Understood the whole approach to development, initially the front
+        highlights:
+            - Developed the Vonigo application on Android
+            - Assisted in designing the iOS platform
+            - XSLT/XML to HTML development
+            - Cross-platform hybrid architecture implementing JavaScript/CSS/HTML and native functionality
+
+    -   company: QuickMobile
+        website: www.quickmobile.com
+        role: Senior Mobile Developer, Lead
+        location: Vancouver, BC, Canada
+        date: March 2010 - November 2013
+        summary: Became a lead developer in the apps industry that serviced many Fortune 500 companies
+        highlights:
+            - Lead Developer for Android/BlackBerry in start-up environment
+            - Worked on over 100+ iPhone, Android and BlackBerry Applications
+            - Worked extensively on iPhone and Android Framework
+            - Created Automation and test scripts for iPhone/Android/BlackBerry
+            - Developed BlackBerry Framework
+            - Travelled internationally to interface with and support key clients (McDonald's, Intel, Google)
+            - Helped grow the company from 7 to over 200 Employees
+
+    -    company: Redback Networks (Ericcson)
+         website: www.ericsson.com
+         role: Software Developer
+         location: Burnaby, BC, Canada
+         date: January 2008 - January 2009
+         summary: I was able to build confidence here as a developer to kickstart my career
+         highlights:
+            - Data driven development by creating analytics of all calls to the SmartEdge Routers
+            - Automation and test scripts using perl and shell
+            - Implemented cross-communication using SOAP, XML/XSD/XSLT and Java
+
+    -    company: Tekion
+         website: www.tekion.com
+         role: Electronics Engineer
+         location: Burnaby, BC, Canada
+         date: January 2007 – May 2007
+         summary: I was able to create test-loads and automate load functions onto circuit boards
+         highlights:
+            - Schematic design and PCB Layout for internal project Program optimization and restructuring
+            - Created a amp loading circuit which was automated to run and load the cell system
+
+    -    company: BlackBerry
+         website: www.blackberry.com
+         role: Security Software Developer
+         location: Waterloo, Ontario, Canada
+         date: May 2006 - September 2006
+         summary: Helped fix bugs and understand the inner workings of security at BlackBerry, early on
+         highlights:
+            - Mainly bug fixing and was mentored in Java Development
+            - Device-Side PGP/SSP implementations
+            - Worked Extensively on Security-Code Optimization
+
+    -    company: BlackBerry
+         website: www.blackberry.com
+         role: Retail Applications Developer
+         location: Waterloo, Ontario, Canada
+         date: September 2005 – January 2006
+         summary: My first taste of working on mobile applications
+         highlights:
+            - An introduction to the workforce
+            - First understandings of big company architecture and the importance of bug tracking and documentation
+            - Designing using SVG and Java to the customer
+
+education:
+    -   location: Simon Fraser University, Burnaby, BC, Canada
+        date: 2003 - 2009
+        summary: B.A.Sc. Engineering Science – Electronics Option
+
+hobbies:
+    - Snowboarding
+    - Brazilian Jiu-Jitsu (Purple Belt)
+    - Videography
+
+
+config:
+    name: Kevin Ciarniello
+    bitbucket_source: https://bitbucket.org/kciarnie/resume
+    year: 2016
+    output_dir: build

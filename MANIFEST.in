@@ -1,0 +1,4 @@
+recursive-include *.xml
+recursive-include *.sh
+recursive-include *.yaml
+include README.md
