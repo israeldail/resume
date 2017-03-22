@@ -140,14 +140,12 @@
             <div class="row skills">
 
               {% for area in skills %}
-              <div class="col-md-6">
                 <h4>{{ area.area }}</h4>
                 <ul>
                   {% for skill in area.skills %}
                   <li>{{ skill }}</li>
                   {% endfor %}
                 </ul>
-              </div>
               {% endfor %}
 
             </div>

@@ -14,17 +14,13 @@ profile:
     image: "../resumes/kevin.jpg"
 
     networks:
-        -   provider: bitbucket
+        -   provider: github
             username: kciarnie
-            url: https://www.bitbucket.org/kciarnie
+            url: https://github.com/kciarnie
 
         -   provider: linkedin
             username: Kevin-Ciarniello-77b02baa
             url: https://www.linkedin.com/in/kevin-ciarniello-77b02baa
-
-        -   provider: youtube
-            username: kciarnie
-            url: https://www.youtube.com/kciarnie
 
         -   provider: instagram
             username: kciarnie
@@ -33,26 +29,26 @@ profile:
 skills:
     -   area: Programming
         skills:
-            - Python, +1 years
+            - Java, Strong, 10+ years
             - C#, +5 years
             - Objective-C, 5+ years
-            - Java, Strong, 10+ years
+            - Python, +1 years
+            - Ruby, 2+ Years
+            - T-SQL, 2+ Years
 
     -   area: Technology
         skills:
-            - Git
-            - MSSQL
-            - Android
-            - iOS
-            - .NET C#
-            - Jenkins
-            - Docker
-            - JSON
+            - Mobile (iOS, Android)
+            - Databases (Sqlite3, MSSQL, MySQL)
+            - Front-End (Node.js, CSS/HTML)
+            - APIs (python, Ruby API 5, .NET C#)
+            - Automation (python, Jenkins, Docker)
+            - Basics (XML, JSON, Git, Gitflow)
 
-    -   area: Languages
+    -   area: Multimedia
         skills:
-            - English, Fluent
-            - Portugese, Basic
+            - Videography (Adobe Premiere, Final Cut Pro X)
+            - Photography (Adobe Photoshop, Lightroom, Illustrator)
 
 work:
     -   company: Eventbase Technology
@@ -69,7 +65,7 @@ work:
 
     -   company: Vonigo
         website: www.vonigo.com
-        role: Senior Mobile and Full-stack Developer
+        role: Senior Full-stack Developer
         location: Vancouver, BC, Canada
         date: November 2015 - August 2016
         summary: When they needed help, I switched to being a .NET Developer. I started to understand the whole paradigm
