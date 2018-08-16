@@ -49,14 +49,14 @@ skills:
 
 work:
     -   company: Apple
-        website: www.buddybuild.com
+        website: http://www.apple.com
         role: Software Development Engineer
         location: Vancouver, BC, Canada
         date: January 2018 - Present
         summary: Develop technologies for the 1st trillion dollar company
             
     -   company: Buddybuild
-        website: www.buddybuild.com
+        website: http://ww.buddybuild.com
         role: Engineer
         location: Vancouver, BC, Canada
         date: June 2016 - January 2018
@@ -68,7 +68,7 @@ work:
             - Develop and maintain existing technologies of the buddybuild ecosystem
 
     -   company: Eventbase Technology
-        website: www.eventbase.com
+        website: http://www.eventbase.com
         role: Senior Software Developer
         location: Vancouver, BC, Canada
         date: September 2016 - May 2016
@@ -80,7 +80,7 @@ work:
             - Setup a Continuous Integration Environment to deploy builds and get configuration running faster
 
     -   company: Vonigo
-        website: www.vonigo.com
+        website: http://www.vonigo.com
         role: Senior Full-stack Developer
         location: Vancouver, BC, Canada
         date: November 2015 - August 2016
@@ -94,7 +94,7 @@ work:
 
 
     -   company: Vonigo
-        website: www.vonigo.com
+        website: http://www.vonigo.com
         role: Senior Android Developer
         location: Vancouver, BC, Canada
         date: March 2014 - November 2015
@@ -106,7 +106,7 @@ work:
             - Cross-platform hybrid architecture implementing JavaScript/CSS/HTML and native functionality
 
     -   company: QuickMobile
-        website: www.quickmobile.com
+        website: http://www.quickmobile.com
         role: Senior Mobile Developer, Lead
         location: Vancouver, BC, Canada
         date: March 2010 - November 2013
@@ -121,7 +121,7 @@ work:
             - Helped grow the company from 7 to over 200 Employees
 
     -    company: Redback Networks (Ericcson)
-         website: www.ericsson.com
+         website: http://www.ericsson.com
          role: Software Developer
          location: Burnaby, BC, Canada
          date: January 2008 - January 2009
@@ -132,7 +132,7 @@ work:
             - Implemented cross-communication using SOAP, XML/XSD/XSLT and Java
 
     -    company: BlackBerry
-         website: www.blackberry.com
+         website: http://www.blackberry.com
          role: Security Software Developer
          location: Waterloo, Ontario, Canada
          date: May 2006 - September 2006
@@ -143,7 +143,7 @@ work:
             - Worked Extensively on Security-Code Optimization
 
     -    company: BlackBerry
-         website: www.blackberry.com
+         website: http://www.blackberry.com
          role: Retail Applications Developer
          location: Waterloo, Ontario, Canada
          date: September 2005 – January 2006
