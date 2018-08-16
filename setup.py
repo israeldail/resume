@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 from setuptools.command.test import test as TestCommand
 
 requires = ['click', 'cairocffi', 'CairoSVG', 'cffi', 'cssselect', 'docopt', 'html5lib', 'Jinja2', 'lxml',
-            'Markdown', 'MarkupSafe', 'pycparser', 'Pyphen', 'PyYAML', 'six', 'tinycss', 'pdfkit', 'yaml']
+            'Markdown', 'MarkupSafe', 'pycparser', 'Pyphen', 'PyYAML', 'six', 'tinycss', 'pdfkit']
 
 setup(
     name="Kevin Ciarniello's Resume",

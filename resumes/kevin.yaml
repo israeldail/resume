@@ -32,7 +32,8 @@ skills:
             - Java, Strong, 10+ years
             - C#, +5 years
             - Objective-C, 5+ years
-            - Python, +1 years
+            - node.js, 1+ years
+            - Python, 4+ years
             - Ruby, 2+ Years
             - T-SQL, 2+ Years
 
@@ -40,22 +41,37 @@ skills:
         skills:
             - Mobile (iOS, Android)
             - Databases (Sqlite3, MSSQL, MySQL)
-            - Front-End (Node.js, CSS/HTML)
-            - APIs (python, Ruby API 5, .NET C#)
-            - Automation (python, Jenkins, Docker)
-            - Basics (XML, JSON, Git, Gitflow)
-
-    -   area: Multimedia
-        skills:
-            - Videography (Adobe Premiere, Final Cut Pro X)
-            - Photography (Adobe Photoshop, Lightroom, Illustrator)
+            - Front-End (javascript)
+            - Back-End (node.js, ASP.net)
+            - APIs (python, .NET C#)
+            - Automation (python, Jenkins, Docker, buddybuild)
+            - Basics (yaml, XML, JSON, Git, Gitflow)
 
 work:
+    -   company: Apple
+        website: www.buddybuild.com
+        role: Software Development Engineer
+        location: Vancouver, BC, Canada
+        date: January 2018 - Present
+        summary: Develop technologies for the 1st trillion dollar company
+            
+    -   company: Buddybuild
+        website: www.buddybuild.com
+        role: Engineer
+        location: Vancouver, BC, Canada
+        date: June 2016 - January 2018
+        summary: Developed and maintained CI/CD solution for both the iOS and Android Platforms
+        highlights:
+            - Buddybuild SDK support for the Android Platform
+            - Android CI/CD development and integration from start to deployment of Android projects
+            - technical support with engineers
+            - Develop and maintain existing technologies of the buddybuild ecosystem
+
     -   company: Eventbase Technology
         website: www.eventbase.com
         role: Senior Software Developer
         location: Vancouver, BC, Canada
-        date: September 2016 - Present
+        date: September 2016 - May 2016
         summary: Helped assist in Android and iOS Development, while I enjoyed automating things using Python to service over 100+ Event Apps
         highlights:
             - iOS and Android development on the core product that facilitates more than 100+ apps/year
@@ -114,16 +130,6 @@ work:
             - Data driven development by creating analytics of all calls to the SmartEdge Routers
             - Automation and test scripts using perl and shell
             - Implemented cross-communication using SOAP, XML/XSD/XSLT and Java
-
-    -    company: Tekion
-         website: www.tekion.com
-         role: Electronics Engineer
-         location: Burnaby, BC, Canada
-         date: January 2007 - May 2007
-         summary: I was able to create test-loads and automate load functions onto circuit boards
-         highlights:
-            - Schematic design and PCB Layout for internal project Program optimization and restructuring
-            - Created a amp loading circuit which was automated to run and load the cell system
 
     -    company: BlackBerry
          website: www.blackberry.com
