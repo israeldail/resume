@@ -5,7 +5,7 @@ profile:
     name: Kevin Ciarniello
     label: Senior Software Developer
     email: kciarnie@gmail.com
-    phone: +1 (604) 618 7487
+    phone: +1 (604) 441 5705
     birth: 09-13-1984
     address: 25-240 Tenth Street<br>New Westminster, BC<br>Canada V3M 3X9
     summary: >
@@ -52,7 +52,7 @@ work:
         website: http://www.apple.com
         role: Software Development Engineer
         location: Vancouver, BC, Canada
-        date: January 2018 - Present
+        date: January 2018 - January 2019
         summary: Develop technologies for the 1st trillion dollar company
             
     -   company: Buddybuild
@@ -159,9 +159,8 @@ education:
         summary: B.A.Sc. Engineering Science – Electronics Option
 
 hobbies:
-    - Snowboarding
-    - Brazilian Jiu-Jitsu (Purple Belt)
-    - Videography
+    - Brazilian Jiu-Jitsu (Brown Belt)
+    - Music Production
 
 
 config:
